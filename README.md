@@ -21,4 +21,4 @@ It is then displayed on a [GUI](https://en.wikipedia.org/wiki/Graphical_user_int
 
 * 24 queens
 
-![24x24 solution](/images/16x16.PNG)
+![24x24 solution](/images/24x24.PNG)
