@@ -9,16 +9,16 @@ It is then displayed on a [GUI](https://en.wikipedia.org/wiki/Graphical_user_int
 
 ## Examples
 
-### 8 queens (classical chess board):
+#### 8 queens (classical chess board):
 
 ![8x8 solution](/images/8x8.PNG)
 
 ![second 8x8 solution](/images/8x8-2.PNG)
 
-### 16 queens:
+#### 16 queens:
 
 ![16x16 solution](/images/16x16.PNG)
 
-### 24 queens:
+#### 24 queens:
 
 ![24x24 solution](/images/24x24.PNG)
